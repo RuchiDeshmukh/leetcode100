@@ -4,3 +4,4 @@
 3. https://leetcode.com/problems/merge-two-binary-trees/
 4. https://leetcode.com/problems/two-sum/
 5. https://leetcode.com/problems/two-sum/ efficient
+6. https://leetcode.com/problems/contains-duplicate/
