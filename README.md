@@ -10,4 +10,6 @@
 9. https://leetcode.com/problems/palindrome-linked-list/
 10. https://leetcode.com/problems/valid-palindrome/
 11. https://leetcode.com/problems/pascals-triangle/
-12. https://leetcode.com/problems/n-ary-tree-postorder-traversal
+12. https://leetcode.com/problems/n-ary-tree-postorder-traversal/
+13. https://leetcode.com/problems/binary-tree-inorder-traversal/
+14. https://leetcode.com/problems/n-ary-tree-preorder-traversal/
