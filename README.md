@@ -21,3 +21,4 @@
 20. https://leetcode.com/problems/binary-search/
 21. https://leetcode.com/problems/to-lower-case/
 22. https://leetcode.com/problems/odd-even-linked-list/
+23. https://leetcode.com/problems/first-bad-version
