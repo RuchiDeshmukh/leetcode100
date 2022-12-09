@@ -24,3 +24,4 @@
 23. https://leetcode.com/problems/first-bad-version
 24. https://leetcode.com/problems/backspace-string-compare/
 25. https://leetcode.com/problems/linked-list-cycle/
+26. https://leetcode.com/problems/number-of-islands/
