@@ -25,3 +25,7 @@
 24. https://leetcode.com/problems/backspace-string-compare/
 25. https://leetcode.com/problems/linked-list-cycle/
 26. https://leetcode.com/problems/number-of-islands/
+27.
+29. https://leetcode.com/problems/middle-of-the-linked-list/
+28. https://leetcode.com/problems/reverse-string/
+30. https://leetcode.com/problems/merge-two-sorted-lists/
