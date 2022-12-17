@@ -29,3 +29,5 @@
 29. https://leetcode.com/problems/middle-of-the-linked-list/
 28. https://leetcode.com/problems/reverse-string/
 30. https://leetcode.com/problems/merge-two-sorted-lists/
+31. 
+32. https://leetcode.com/problems/keys-and-rooms/
