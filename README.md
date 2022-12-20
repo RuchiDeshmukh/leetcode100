@@ -34,3 +34,4 @@
 33.
 34. https://leetcode.com/problems/container-with-most-water/
 35. https://leetcode.com/problems/3sum-closest/
+36. https://leetcode.com/problems/binary-tree-pruning/
